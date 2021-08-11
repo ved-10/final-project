@@ -1,0 +1,122 @@
+.head{
+      
+  background-color:black;
+  border:solid;
+  font-family: papyrus;
+   }
+   .ahead{
+     background-color: yellow;
+     border: solid;
+     font-family: papyrus;
+   }
+
+   
+
+.grid {
+  background: darkred;
+  background-color: #F0F8FF;
+  display: flex;
+  justify-content: last baseline;
+  flex-direction: row;
+  text-align:center;
+  flex-wrap: wrap;
+}
+
+.camel {
+  border: 20px solid #F0F8FF;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 200px;
+  height: 500px;
+  padding: 50px;
+  background-color:#E8E5E4;
+}
+
+
+.chameleon {
+  border: 20px solid #F0F8FF;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 200px;
+  height: 500px;
+  padding: 50px;
+  background-color:#E8E5E4;
+}
+
+.pigeon {
+  border: 20px solid #F0F8FF;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 200px;
+  height: 500px;
+  padding: 50px;
+  background-color:#E8E5E4;
+}
+
+.teddybear{
+  border: 20px solid #F0F8FF;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 200px;
+  height: 500px;
+  padding: 50px;
+  background-color:#E8E5E4;
+}
+.panda{
+  border: 20px solid #F0F8FF;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 200px;
+  height: 500px;
+  padding: 50px;
+  background-color:#E8E5E4;
+}
+
+.cicada{
+  border: 20px solid #F0F8FF;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 200px;
+  height: 500px;
+  padding: 50px;
+  background-color:#E8E5E4;
+}
+
+.crane{
+  border: 20px solid #F0F8FF;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 200px;
+  height: 500px;
+  padding: 50px;
+  background-color:#E8E5E4;
+}
+
+.frog{
+  border: 20px solid #F0F8FF;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 200px;
+  height: 500px;
+  padding: 50px;
+  background-color:#E8E5E4;
+}
+.animal{
+  border: 2px solid black;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 600px;
+  height: 200px;
+  padding: 50px;
+  background-color:#E8E5E4;
+}
+.objects{
+  border: 1px solid black;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 600px;
+  height: 200px;
+  padding: 50px;
+  background-color:lightblue;
+
+}
